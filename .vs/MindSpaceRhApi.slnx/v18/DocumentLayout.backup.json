@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|c:\\users\\henrique\\downloads\\mindspacerhapi\\mindspacerhapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|solutionrelative:mindspacerhapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|c:\\users\\henrique\\downloads\\mindspacerhapi\\mindspacerhapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|solutionrelative:mindspacerhapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|c:\\users\\henrique\\downloads\\mindspacerhapi\\mindspacerhapi\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|solutionrelative:mindspacerhapi\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|c:\\users\\henrique\\downloads\\mindspacerhapi\\mindspacerhapi\\models\\wellnessmetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|solutionrelative:mindspacerhapi\\models\\wellnessmetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|c:\\users\\henrique\\downloads\\mindspacerhapi\\mindspacerhapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|solutionrelative:mindspacerhapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|c:\\users\\henrique\\downloads\\mindspacerhapi\\mindspacerhapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|solutionrelative:mindspacerhapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|c:\\users\\henrique\\downloads\\mindspacerhapi\\mindspacerhapi\\migrations\\20251123194326_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|solutionrelative:mindspacerhapi\\migrations\\20251123194326_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|c:\\users\\henrique\\downloads\\mindspacerhapi\\mindspacerhapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|solutionrelative:mindspacerhapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|c:\\users\\henrique\\downloads\\mindspacerhapi\\mindspacerhapi\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|solutionrelative:mindspacerhapi\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|c:\\users\\henrique\\downloads\\mindspacerhapi\\mindspacerhapi\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B896DA-53E4-4319-D2E3-742D53FB4355}|MindSpaceRhApi\\MindSpaceRhApi.csproj|solutionrelative:mindspacerhapi\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MindSpaceRhApi\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Models\\Department.cs",
+              "RelativeToolTip": "MindSpaceRhApi\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:45:05.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WellnessMetric.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Models\\WellnessMetric.cs",
+              "RelativeDocumentMoniker": "MindSpaceRhApi\\Models\\WellnessMetric.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Models\\WellnessMetric.cs",
+              "RelativeToolTip": "MindSpaceRhApi\\Models\\WellnessMetric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:46:49.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "MindSpaceRhApi\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "MindSpaceRhApi\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:36:40.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MindSpaceRhApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MindSpaceRhApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:47:25.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Program.cs",
+              "RelativeDocumentMoniker": "MindSpaceRhApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Program.cs",
+              "RelativeToolTip": "MindSpaceRhApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:49:50.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MindSpaceRhApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MindSpaceRhApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T20:45:50.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MindSpaceRhApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\appsettings.json",
+              "RelativeToolTip": "MindSpaceRhApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-23T18:53:07.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "MindSpaceRhApi\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "MindSpaceRhApi\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:49:34.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251123194326_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Migrations\\20251123194326_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MindSpaceRhApi\\Migrations\\20251123194326_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Migrations\\20251123194326_InitialCreate.cs",
+              "RelativeToolTip": "MindSpaceRhApi\\Migrations\\20251123194326_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T19:43:26.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "MindSpaceRhApi\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Henrique\\Downloads\\MindSpaceRhApi\\MindSpaceRhApi\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "MindSpaceRhApi\\Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:49:09.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

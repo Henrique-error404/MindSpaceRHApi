@@ -1,0 +1,6 @@
+@MindSpaceRhApi_HostAddress = http://localhost:5079
+
+GET {{MindSpaceRhApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
