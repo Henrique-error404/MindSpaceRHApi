@@ -27,6 +27,17 @@ Para atender aos requisitos de performance e manutenibilidade, as seguintes deci
 * **Oracle Database Provider:** Utilização do driver oficial `Oracle.EntityFrameworkCore` para conexão nativa com a infraestrutura da FIAP.
 * **Design-Time Factory:** Implementação de `IDesignTimeDbContextFactory` para permitir a execução de Migrations em ambiente de desenvolvimento sem conflitos de injeção de dependência.
 
+
+### Dependências Essenciais e Versões
+
+| Pacote | Versão Utilizada | Finalidade |
+| :--- | :--- | :--- |
+| `Microsoft.EntityFrameworkCore` | **9.0.11** | Core do ORM (Mapeamento de Entidades). |
+| `Microsoft.EntityFrameworkCore.Tools` | **9.0.11** | Ferramentas para rodar Migrations (Comandos `Add-Migration` e `Update-Database`). |
+| `Oracle.EntityFrameworkCore` | **9.2.23600** | Provedor de Banco de Dados para conectar ao Oracle. |
+| `Swashbuckle.AspNetCore` | **9.0.6** | Documentação Interativa (Swagger/OpenAPI). |
+| `Microsoft.AspNetCore.OpenApi` | **10.0.0** | Suporte a anotações de endpoints. |
+
 ---
 
 ## [![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/) Imgs:
