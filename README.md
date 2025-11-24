@@ -2,7 +2,7 @@
 
 ## Gestão de Setores e Métricas de Bem-Estar
 
-[![.NET 10](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![EF Core](https://img.shields.io/badge/EF%20Core-Oracle-F80000?logo=oracle&logoColor=white)](https://docs.microsoft.com/ef/core/)
 [![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/)
 [![Pattern](https://img.shields.io/badge/Pattern-Repository-blue)](https://learn.microsoft.com/)
