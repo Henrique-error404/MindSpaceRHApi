@@ -29,7 +29,7 @@ Para atender aos requisitos de performance e manutenibilidade, as seguintes deci
 
 ---
 
-## Swagger [![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/) Imgs:
+## [![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/) Imgs:
 
 <img width="1226" height="958" alt="Captura de tela 2025-11-23 210321" src="https://github.com/user-attachments/assets/f066776d-6443-437d-b181-0d2b2138f9a8" />
 
